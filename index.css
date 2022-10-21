@@ -1,0 +1,23 @@
+body{
+    background-color: #a39e9e;
+}
+.logo{
+    width: 250px;
+    padding-left: 540px;
+    padding-bottom: 10px;
+}
+.inicio{
+    color: #0f0f0f;
+    width: 800px;
+    text-align: center;
+    font-size: 17px;
+    padding-left: 250px;
+}
+.redes-sociais{
+    display: inline-block;
+    padding-left: 1120px;
+}
+.icone{
+    width: 40px;
+    padding-left: 15px;
+}
